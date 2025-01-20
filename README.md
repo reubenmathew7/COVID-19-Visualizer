@@ -74,12 +74,6 @@ These visualizations can be exported for use in presentations or further analysi
 
 ---
 
-## Why This Project Matters
-
-This project demonstrates how computational tools like MATLAB can tackle real-world challenges by transforming raw data into actionable insights. For me, it bridges theoretical learning with practical application, emphasizing how programming can support engineering and robotics through robust data analysis and visualization techniques.
-
----
-
 ## Credits
 
 This project was part of [this Coursera course](https://www.coursera.org/learn/advanced-matlab-programming/). The course provided valuable insights into Object Oriented Programming and Application Building using MATLAB.
