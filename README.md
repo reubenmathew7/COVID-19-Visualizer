@@ -2,7 +2,7 @@
 
 ## Requirements
 
-You should be able directly run this project by running the application file. Alternatively, you can also install MATLAB on your system and run the MATLAB App file.
+You can run the app by donwloading it from [here](https://drive.google.com/file/d/1NExBhQoJnuxEu_7NQxTKIpjpRw4xpcT2/view?usp=sharing). Alternatively, you can also install MATLAB on your system and run the MATLAB App file.
 
 ## Why I Built This Project
 
